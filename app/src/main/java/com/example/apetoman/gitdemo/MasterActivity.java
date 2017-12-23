@@ -2,15 +2,12 @@ package com.example.apetoman.gitdemo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 
-public class MainActivity extends AppCompatActivity {
+public class MasterActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-        Log.w("Tag","增加log1");
-        Log.w("Tag","增加log2");
+        setContentView(R.layout.activity_master);
     }
 }
