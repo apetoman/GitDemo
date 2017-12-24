@@ -39,7 +39,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/tv_name"
-        android:background="@drawable/btn_select"
+        android:background="@drawable/shape"
         android:layout_centerHorizontal="true" />
 
 
