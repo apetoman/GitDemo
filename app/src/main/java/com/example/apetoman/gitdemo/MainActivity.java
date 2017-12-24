@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Log.w("Tag","增加log1");
-        Log.w("Tag","增加log2");
+        Log.w("Tag","GitDemo");
+
     }
 }
