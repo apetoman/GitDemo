@@ -58,7 +58,7 @@
             android:id="@+id/im_view"
             android:layout_width="30dp"
             android:layout_height="30dp"
-            android:layout_centerVertical="true"
+          android:layout_centerVertical="true"
             android:layout_marginLeft="10dp"
             android:scaleType="fitXY"
             android:src="@mipmap/ic_launcher" />
