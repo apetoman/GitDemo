@@ -12,6 +12,6 @@ public class MasterActivity extends AppCompatActivity {
         setContentView(R.layout.activity_master);
         Log.w("Tag","YouGitDemo");
         Log.w("Tag","Master");
-        Log.w("Tag","hahaha");
+        Log.w("Tag","hahaha1");
     }
 }
